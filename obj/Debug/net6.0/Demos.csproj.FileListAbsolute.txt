@@ -1,0 +1,15 @@
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Demos\bin\Debug\net6.0\Demos.exe
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Demos\bin\Debug\net6.0\Demos.deps.json
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Demos\bin\Debug\net6.0\Demos.runtimeconfig.json
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Demos\bin\Debug\net6.0\Demos.dll
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Demos\bin\Debug\net6.0\Demos.pdb
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Demos\obj\Debug\net6.0\Demos.csproj.AssemblyReference.cache
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Demos\obj\Debug\net6.0\Demos.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Demos\obj\Debug\net6.0\Demos.AssemblyInfoInputs.cache
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Demos\obj\Debug\net6.0\Demos.AssemblyInfo.cs
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Demos\obj\Debug\net6.0\Demos.csproj.CoreCompileInputs.cache
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Demos\obj\Debug\net6.0\Demos.dll
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Demos\obj\Debug\net6.0\refint\Demos.dll
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Demos\obj\Debug\net6.0\Demos.pdb
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Demos\obj\Debug\net6.0\Demos.genruntimeconfig.cache
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Demos\obj\Debug\net6.0\ref\Demos.dll
